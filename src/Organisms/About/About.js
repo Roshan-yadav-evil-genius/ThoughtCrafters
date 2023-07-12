@@ -6,6 +6,7 @@ export default function About() {
         <div id="about" className='Main'>
             <div className='AboutUs'>
                 <div className='Video1'>
+                    
                     <iframe
                         width="360"
                         height="515"

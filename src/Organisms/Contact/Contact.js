@@ -40,7 +40,7 @@ const Footers = () => {
                         </a>
                     </div>
                 </div>
-                <div className={styles["footerContent1"]}>
+                {/* <div className={styles["footerContent1"]}>
                     <h3 className={styles["healthy"]}>Healthy living</h3>
                     <ul>
                         <li>Regular exercise</li>
@@ -48,17 +48,17 @@ const Footers = () => {
                         <li>Professional guidance</li>
                         <li>Clean and safe environment</li>
                     </ul>
-                </div>
+                </div> */}
                 <div className={styles["footerSomething"]}>
                     <h3 className={styles["sty"]}>Services</h3>
                     <ul>
-                        <li>Exercise equipment </li>
-                        <li>Personal training</li>
-                        <li>Childcare services</li>
-                        <li>Group fitness classes</li>
+                        <li>Website Development </li>
+                        <li>Website app Development</li>
+                        <li>Website Mentinence Service</li>
+                        <li>Mobile app Development</li>
                     </ul>
                 </div>
-                <div className={styles["footeProgram"]}>
+                {/* <div className={styles["footeProgram"]}>
                     <h3 className={styles["last"]}>Programs</h3>
                     <ul>
                         <li>Wellness Programs</li>
@@ -66,7 +66,7 @@ const Footers = () => {
                         <li>Functional Fitness</li>
                         <li>Cardiovascular Training</li>
                     </ul>
-                </div>
+                </div> */}
             </div>
         </footer>
     );
