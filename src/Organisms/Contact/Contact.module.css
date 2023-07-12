@@ -5,12 +5,13 @@
   height: 7rem;
   display: flex;
   align-items: center;
+  padding: 40px;
   
 }
 .footerContainer {
   display: flex;
   gap: 3rem;
-  padding: 0;
+  
   
 }
 .footerContainer > div {
