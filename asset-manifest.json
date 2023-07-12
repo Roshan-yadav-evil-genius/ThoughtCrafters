@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.b7f50464.css",
+    "main.js": "/react-gh-pages/static/js/main.52535fc7.js",
+    "static/media/revicons.eot": "/react-gh-pages/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/react-gh-pages/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/react-gh-pages/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/react-gh-pages/index.html",
+    "main.b7f50464.css.map": "/react-gh-pages/static/css/main.b7f50464.css.map",
+    "main.52535fc7.js.map": "/react-gh-pages/static/js/main.52535fc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7f50464.css",
+    "static/js/main.52535fc7.js"
+  ]
+}
