@@ -1,10 +1,11 @@
 
+import './Footer.css'
 
 function Footer(){
     return(
         <>
-        <div>
-            hii
+        <div className='footer'>
+                Thought Crafters Pvt. Ltd. © All Rights Reserved     ||    CIN - Upcomming   ||   GST - Upcomming
         </div>
         </>
     )

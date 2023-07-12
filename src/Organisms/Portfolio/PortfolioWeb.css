@@ -1,0 +1,14 @@
+.cardsHeading{
+    color:red;
+    margin-left: 50rem;
+    
+
+}
+@media screen and (min-width:300px) and (max-width: 768px) {
+    .cardsHeading{
+        text-align: center;
+        margin: 0;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+}
