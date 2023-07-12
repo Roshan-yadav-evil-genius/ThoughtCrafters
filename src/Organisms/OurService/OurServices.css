@@ -1,0 +1,54 @@
+
+.our-service{
+    background-color: rgb(18, 17, 17);
+    color: white;
+    
+
+    width: 100%;
+    
+}
+
+.our-service h5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.our-service h5:hover{
+    color: rgb(162, 162, 103);
+}
+
+.our-service h2{
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.our-service h2:hover{
+    color: rgb(79, 114, 7);
+}
+
+.our-service-image{
+    width: 25%;
+    height: 200px;
+    padding-right: 20px;
+}
+
+.our-service-image:hover{
+    border: 4px solid rgb(66, 9, 240);
+    border-radius: 5px;
+}
+
+.web{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    
+}
+
+.web:hover{
+    color: rgb(5, 171, 171);
+}

@@ -1,13 +1,15 @@
 .navbar {
-    position: sticky;
-    z-index: 1;
-    border-top: 1px solid royalblue;
+  position: sticky;
+  z-index: 1;
+  border-top: 1px solid royalblue;
   height: 7vh;
-  /* background-color: grey; */
+  background-color: grey;
   display: flex;
   align-items: center;
   justify-content: center;
   color: black;
+  position: fixed;
+  width: 100%;
 }
 
 .nav-downicon{

@@ -1,0 +1,21 @@
+.image {
+  
+  border-radius: 11px;
+  height: 400px;
+  width: 400px;
+}
+
+.image:hover{
+    border: 2px solid rgb(37, 6, 239);
+}
+
+.section {
+  text-align: center;
+}
+@media screen and (min-width:300px) and (max-width: 768px) {
+    .container{
+      height: 20rem;
+      width: 100%;
+      
+    }
+} 

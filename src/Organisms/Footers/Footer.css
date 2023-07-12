@@ -1,0 +1,17 @@
+
+.footer{
+  width: 100vw;
+  padding: 5px;
+  padding-top: 5px;
+font-size: xx-small;
+  height: 5vh;
+  background-color: rgb(21, 21, 21);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(251, 249, 249);
+  position: fixed;
+  bottom: 0px;
+  z-index: 1;
+  
+};
