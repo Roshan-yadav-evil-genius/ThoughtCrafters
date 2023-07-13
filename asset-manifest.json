@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ThoughtCrafters/static/css/main.f9d93d31.css",
-    "main.js": "/ThoughtCrafters/static/js/main.7964afee.js",
-    "static/media/revicons.eot": "/ThoughtCrafters/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/ThoughtCrafters/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/ThoughtCrafters/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/ThoughtCrafters/index.html",
-    "main.f9d93d31.css.map": "/ThoughtCrafters/static/css/main.f9d93d31.css.map",
-    "main.7964afee.js.map": "/ThoughtCrafters/static/js/main.7964afee.js.map"
+    "main.css": "/ThoughtCraftersFirstTry/static/css/main.10cd4efc.css",
+    "main.js": "/ThoughtCraftersFirstTry/static/js/main.6530040e.js",
+    "static/media/revicons.eot": "/ThoughtCraftersFirstTry/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/ThoughtCraftersFirstTry/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/ThoughtCraftersFirstTry/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/ThoughtCraftersFirstTry/index.html",
+    "main.10cd4efc.css.map": "/ThoughtCraftersFirstTry/static/css/main.10cd4efc.css.map",
+    "main.6530040e.js.map": "/ThoughtCraftersFirstTry/static/js/main.6530040e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9d93d31.css",
-    "static/js/main.7964afee.js"
+    "static/css/main.10cd4efc.css",
+    "static/js/main.6530040e.js"
   ]
 }
